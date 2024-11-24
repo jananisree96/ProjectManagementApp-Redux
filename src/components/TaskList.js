@@ -26,7 +26,7 @@ const TaskList = () => {
       <Table striped bordered hover>
         <thead>
           <tr className="text-center">
-            <th>#</th>
+            <th>Id</th>
             <th>Title</th>
             <th>Description</th>
             <th>Actions</th>
